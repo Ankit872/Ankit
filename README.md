@@ -1,2 +1,0 @@
-# Ankit
-DBMS practical
